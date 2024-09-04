@@ -29,12 +29,14 @@ If you want to run supervised learning project, from root project folder, run th
 cd src\supervised-learning
 jupyter notebook
 ```
+Open the project at file `main.ipynb`.
 
 If you want to run unsupervised learning project, from root project folder, run this command: 
 ```
 cd src\unsupervised-learning
 jupyter notebook
 ```
+Open the project at file `main.ipynb`.
 
 ## Features
 Supervised Learning (Bagian 2)
