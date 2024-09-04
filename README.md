@@ -40,12 +40,14 @@ Open the project at file `main.ipynb`.
 
 ## Features
 Supervised Learning (Bagian 2)
+
 ✅ kNN 
 ✅ Logistic Regression
 ✅ Gaussian Naive Bayes
 ✅ CART
 ✅ SVM
 ✅ ANN
+
 Bonus yang diimplementasikan:
 - Logistic Regression: Hinge Loss
 - SVM: Polynomial kernel, RBF kernel, Sigmoid kernel
@@ -53,8 +55,10 @@ Bonus yang diimplementasikan:
 - Ensemble Methods: Random Forest
 
 Unsupervised Learning (Bagnian 3)
+
 ✅ k-Means
 ✅ DBSCAN
 ✅ PCA
+
 Bonus yang diimplementasikan:
 - k-Means: Inisialisasi k-means++
